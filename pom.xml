@@ -130,7 +130,7 @@
         <cxf.version>3.0.4</cxf.version>
     </properties>
     <build>
-        <finalName>dev</finalName>
+        <finalName>khavish</finalName>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
