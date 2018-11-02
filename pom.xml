@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>jen</groupId>
-    <artifactId>dev</artifactId>
+    <artifactId>swethi</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>dev</name>
+    <name>swethi</name>
     <url>http://maven.apache.org/</url>
     <repositories>
         <repository>
@@ -130,7 +130,7 @@
         <cxf.version>3.0.4</cxf.version>
     </properties>
     <build>
-        <finalName>dev</finalName>
+        <finalName>swethi</finalName>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
